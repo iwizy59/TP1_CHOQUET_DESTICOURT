@@ -35,11 +35,14 @@ public class System_hospitalier {
 	
 	private String analyserRequete(Requête requête) {
 		// Analyser la requête
+		// Cette méthode prends en entrée une variable de type Requête et 
+		// retourne la chaîne de caractère pour confirmer que la requête est analysée.
 		return "requête analysée";
 	}
 	
 	private String comparerDonnes() {
 		// Comparaison des données
+		// Cette méthode retourne la chaîne de caractère "Cluster trouvé".
 		return "Cluster trouvé";
 	}
 
